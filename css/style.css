@@ -23,7 +23,8 @@ header{
     height: 600px;
     background-color: darkgreen;
 }
-h1{
+.title{
+    height: 60px;
     background-color: blueviolet;
 }
 .main_content{
@@ -40,4 +41,8 @@ aside{
 main{
     width: 50%;
     background-color: darksalmon;
+}
+footer{
+    height: 70px;
+    background-color: darkseagreen;
 }
