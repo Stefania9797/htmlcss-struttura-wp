@@ -10,11 +10,14 @@
     clear: both;
 }
 /* /Utility */
+
 .container{
     width: 90%;
     background-color: cyan;
     margin: auto;
 }
+
+/* Header */
 .logo{
     height: 100px;
     background-color: black;
@@ -23,6 +26,13 @@ header{
     height: 600px;
     background-color: darkgreen;
 }
+nav{
+    height: 60px;
+    background-color: dimgray;
+}
+/* /Header */
+
+/* title and main text */
 .title{
     height: 60px;
     background-color: blueviolet;
@@ -42,6 +52,8 @@ main{
     width: 50%;
     background-color: darksalmon;
 }
+/* /title and main text */
+
 footer{
     height: 70px;
     background-color: darkseagreen;
