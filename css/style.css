@@ -12,7 +12,6 @@
 /* /Utility */
 .container{
     width: 90%;
-    height: 800px;
     background-color: cyan;
     margin: auto;
 }
@@ -23,4 +22,22 @@
 header{
     height: 600px;
     background-color: darkgreen;
+}
+h1{
+    background-color: blueviolet;
+}
+.main_content{
+    width: 100%;
+}
+aside , main{
+    height: 500px;
+    float: left;
+}
+aside{
+    width: 25%;
+    background-color: crimson;
+}
+main{
+    width: 50%;
+    background-color: darksalmon;
 }
